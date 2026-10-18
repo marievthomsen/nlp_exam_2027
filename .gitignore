@@ -221,3 +221,4 @@ __marimo__/
 
 # Folders not pushed to git
 Data/*
+!Data/README.md
